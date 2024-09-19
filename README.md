@@ -23,8 +23,8 @@ To explore the solutions for each challenge:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/langflow-competition.git
-   cd langflow-competition
+   git clone https://github.com/imtiazx/LangflowHackathon.git
+   cd LangflowHackathon
    ```
 
 2. Navigate to the challenge folder you're interested in, e.g., for **Challenge 1**:  
