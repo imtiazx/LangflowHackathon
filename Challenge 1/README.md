@@ -3,7 +3,7 @@
 ### The Task:
 The challenge is to create a Langflow flow that processes the provided **"Prompt Engineering Guide"** and generates a **TLDR summary**. The summary should be concise yet comprehensive enough to accurately answer 10 evaluation questions.
 
-### 🎯 Evaluation Criteria:
+### Evaluation Criteria:
 - **Primary Metric**: The generated TLDR will be evaluated for its similarity in answering 10 questions based on the guide. A professional response to each question is expected, or acknowledgment of the inability to answer correctly.
 - **Secondary Metric**: The number of tokens used in the summary will be used as a tiebreaker. More concise summaries that still capture all necessary information will be ranked higher.
 
