@@ -19,3 +19,7 @@ The challenge is to create a Langflow flow that processes the provided **"Prompt
 
 - **Prompt_Engineering_Guide_EN.md**  
 A detailed guide on prompt engineering, providing techniques and best practices. This is the text that will be processed by the flow to generate the TLDR summary.
+
+---
+
+A detailed walkthrough is available in this YouTube video: [link](https://www.youtube.com/watch?v=JPfS4N3ciQA).
