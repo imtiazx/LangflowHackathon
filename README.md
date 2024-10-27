@@ -13,7 +13,7 @@ The competition consists of three main challenges. My solutions are organized in
   Explore my RAG implementation inside the `Challenge 2` folder, focusing on combining generative AI with external data retrieval.
 
 - **Challenge 3: Agents**  
-  The `Challenge 3` folder contains the solution for building agents capable of performing tasks autonomously using AI.
+  My solution for building a Langflow support agent is in the `Challenge 3` folder, utilizing GitHub, documentation, and site data to assist users accurately.
 
 Each folder includes a detailed README file, guiding you through the individual files, how to run the solutions, and evaluate the outputs.
 
