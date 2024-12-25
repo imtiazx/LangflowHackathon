@@ -33,4 +33,4 @@ Your agent will be evaluated based on the following criteria:
 
 ---
 
-For more details and a walkthrough, refer to our [YouTube video](link).
+For more details and a walkthrough, refer to our [YouTube video](https://youtu.be/HR5Sq5vxyis?si=OpmjDlVe93xLYwux).
