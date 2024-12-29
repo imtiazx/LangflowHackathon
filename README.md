@@ -14,6 +14,9 @@ The competition consists of three main challenges. My solutions are organized in
 
 - **Challenge 3: Agents**  
   My solution for building a Langflow support agent is in the `Challenge 3` folder, utilizing GitHub, documentation, and site data to assist users accurately.
+  
+- **Challenge 4: DecodeBite**
+  The solution for this challenge is in the `Challenge 4` folder, featuring a Streamlit application designed to analyze packaged food ingredients. It leverages advanced AI tools like the Together API with Ollama OCR for text extraction, GPT-4o Mini for ingredient categorization, and Multi-Query RAG for answering user queries about food additives, ensuring comprehensive analysis and insights.
 
 Each folder includes a detailed README file, guiding you through the individual files, how to run the solutions, and evaluate the outputs.
 
